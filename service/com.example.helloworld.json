@@ -1,0 +1,17 @@
+{
+    "role": {
+        "allowedNames": ["com.example.helloworld", "com.example.helloworld2"],
+        "type": "regular",
+        "exeName": "js"
+    },
+    "permissions": [{
+        "inbound": ["*"],
+        "outbound": ["*"],
+        "service": "com.example.helloworld"
+    },
+    {
+        "inbound": ["*"],
+        "outbound": ["*"],
+        "service": "com.example.helloworld2"
+    }]
+}

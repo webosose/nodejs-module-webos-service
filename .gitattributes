@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+#Shell scripts - preserve LF line ending, even on Windows
+*.sh	text eol=lf

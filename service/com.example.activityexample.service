@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=com.example.activityexample
+Exec=run-js-service /usr/palm/services/com.example.activityexample

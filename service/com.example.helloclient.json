@@ -1,0 +1,12 @@
+{
+    "role": {
+        "allowedNames": ["com.example.helloclient"],
+        "type": "regular",
+        "exeName": "js"
+    },
+    "permissions": [{
+        "inbound": ["*"],
+        "outbound": ["*"],
+        "service": "com.example.helloclient"
+    }]
+}

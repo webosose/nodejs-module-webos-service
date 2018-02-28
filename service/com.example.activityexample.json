@@ -1,0 +1,12 @@
+{
+    "role": {
+        "allowedNames": ["com.example.activityexample"],
+        "type": "regular",
+        "exeName": "js"
+    },
+    "permissions": [{
+        "inbound": ["*"],
+        "outbound": ["*"],
+        "service": "com.example.activityexample"
+    }]
+}

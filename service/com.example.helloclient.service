@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=com.example.helloclient
+Exec=NODE_PATH=/usr/palm/nodejs node /home/root/node_modules/webos-service/sample/helloclient.js

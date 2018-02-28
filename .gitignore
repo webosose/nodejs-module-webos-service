@@ -1,0 +1,14 @@
+# Mac crap
+.DS_Store
+
+# our built npm package
+webos-service*.tgz
+
+# cygwin crash files
+*.stackdump
+
+# gedit backups
+*~
+
+#built ares-generate template file
+webos-service-config.zip

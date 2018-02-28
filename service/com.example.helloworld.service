@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=com.example.helloworld
+Exec=run-js-service /usr/palm/services/com.example.helloworld
