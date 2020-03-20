@@ -4,8 +4,8 @@ h2. Purpose
 The webos-service module for Node.js provides an interface to the system bus, wrapped in familiar Node.js idioms.
 
 h2. How do I get it?
-The webos-service module is part of the starfish build. If you want, you can get the source via
-{{git clone ssh://gpro.lgsvl.com/webos-pro/nodejs-module-webos-service}}
+You can get the source via
+{{git clone https://github.com/webosose/nodejs-module-webos-service.git}}
 
 
 There are a couple of sample services in the git repository, which may be useful.
