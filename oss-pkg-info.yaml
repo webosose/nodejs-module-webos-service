@@ -1,0 +1,6 @@
+Open Source Software Package:
+- name: webosOSE-nodejs-module-webos-service
+  source: git://github.com/webosose/nodejs-module-webos-service
+  license:
+  - Apache-2.0
+  - BSD
